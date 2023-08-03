@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+#output1
+![spbook1](https://github.com/Ayaanjawaid/SpaceBook/assets/92441777/795d9121-d4f0-465b-857e-3df871d621c2)
+#output2
+![spbook2](https://github.com/Ayaanjawaid/SpaceBook/assets/92441777/274414bc-f7a7-4c97-8cba-2f92eb7a1235)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
